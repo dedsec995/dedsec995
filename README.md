@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-#### Work Under Construction
+#### 🌱 I’m currently learning Masters in computer science at SUNY Binghamton!!!!
