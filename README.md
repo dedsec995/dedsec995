@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-#### 🌱 I’m currently learning Masters in computer science at SUNY Binghamton!!!!
+#### 🌱 I’m currently pursuing Masters in computer science at SUNY Binghamton!!!!
