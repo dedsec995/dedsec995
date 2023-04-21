@@ -14,5 +14,5 @@
 
 ### 😂 Fav Dev Meme
 <img src="https://img.devrant.com/devrant/rant/r_1893446_EZDzi.jpg" width="512px"/>
-<img src="https://i.pinimg.com/236x/06/52/a3/0652a31ea2cb219526e2ac4d799bf9d5.jpg" width="512px"/>
+<img src="https://i.pinimg.com/236x/06/52/a3/0652a31ea2cb219526e2ac4d799bf9d5.jpg" width="256"/>
 <img src="https://assets-global.website-files.com/5f3c19f18169b62a0d0bf387/60d33bef80ae86897420ec75_dT0rPCkMXWdb_d6cCbcDILKXYJijN4mhwD3nJtocwSn0JZGYUgi7eGezDpGzTFW-G5cyYV8EpB9bgLO1j0oqn0dVXY3vsc8XRby6WtxZmu-q0qNRgpl-OpurJ0tjEszFUl74GiBn.png" width="512px"/>
