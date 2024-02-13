@@ -16,7 +16,6 @@ A computer graduate with a passion for Python, Machine Learning, and Automation,
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dedsec995&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 ### ✍️ The Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
