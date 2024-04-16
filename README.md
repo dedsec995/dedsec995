@@ -17,5 +17,6 @@ A computer graduate with a passion for Python, Machine Learning, and Automation,
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dedsec995&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
-### 😂 Fav Dev Meme
+<!-- ### 😂 Fav Dev Meme
 <img src="https://assets-global.website-files.com/5f3c19f18169b62a0d0bf387/60d33bef80ae86897420ec75_dT0rPCkMXWdb_d6cCbcDILKXYJijN4mhwD3nJtocwSn0JZGYUgi7eGezDpGzTFW-G5cyYV8EpB9bgLO1j0oqn0dVXY3vsc8XRby6WtxZmu-q0qNRgpl-OpurJ0tjEszFUl74GiBn.png" width="512px"/>
+>
