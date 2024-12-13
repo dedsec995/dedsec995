@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AA9F7&random=false&width=435&lines=Hi%2C+Stranger+%F0%9F%A5%B7;Nice+to+Meet+You+%E2%9C%8C%EF%B8%8F;Feel+Free+to+Fork+%F0%9F%A4%9F%F0%9F%8F%BB)](https://git.io/typing-svg)
 
 # 💫 About Me:
-A computer graduate with a passion for Python, Machine Learning, and Automation, who is fascinated by micro-controllers and deep-learning. Lazy enough to spend hours automating the boring tasks rather than doing them. Firm believer in the rise of Skynet.
+A computer graduate with a passion for Machine Learning, AI, and Automation, who is fascinated by micro-controllers and transformer's ability to map langauge in latent space. Lazy enough to spend hours automating the boring tasks rather than doing them. Firm believer in the rise of Skynet.
 
 
 ## 🌐 Socials:
